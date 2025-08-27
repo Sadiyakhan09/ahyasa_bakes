@@ -86,12 +86,6 @@ npx tailwindcss -i ./style.css -o ./dist/style.css --minify
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of your UI here*
-
----
-
 ## 👨‍🍳 Author
 
 Built with ❤️ by **BiBi_Sadiya** for Ahyasa Bakes.
